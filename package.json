@@ -1,0 +1,26 @@
+{
+  "name": "chronometer",
+  "version": "1.0.0",
+  "description": "chronometer to solve the rubiks cube made with express",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server"
+  },
+  "keywords": [
+    "chronometer",
+    "express"
+  ],
+  "author": "pizzasperoni",
+  "license": "ISC",
+  "devDependencies": {
+  "bootstrap": "^3.3.7",
+  "body-parser": "^1.15.2",
+  "express": "^4.14.0",
+  "express-session": "^1.11.3",
+  "jasmine": "^2.5.2",
+  "lodash": "^3.10.1",
+  "nodemon": "^1.11.0",
+  "pug": "^2.0.0-beta6",
+  "uuid": "^2.0.1"
+  }
+}
