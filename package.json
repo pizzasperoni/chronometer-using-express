@@ -6,12 +6,6 @@
   "scripts": {
     "start": "node server.js",
   },
-  "keywords": [
-    "chronometer",
-    "express"
-  ],
-  "author": "pizzasperoni",
-  "license": "ISC",
   "dependencies": {
   "bootstrap": "^3.3.7",
   "body-parser": "^1.15.2",
@@ -22,5 +16,11 @@
   "nodemon": "^1.11.0",
   "pug": "^2.0.0-beta6",
   "uuid": "^2.0.1"
-  }
+  },
+  "keywords": [
+    "chronometer",
+    "express"
+  ],
+  "author": "pizzasperoni",
+  "license": "ISC",
 }
