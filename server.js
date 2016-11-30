@@ -6,6 +6,8 @@ var session 	= require('express-session');
 
 var app = express();
 
+app.set('port', (process.env.PORT || 8000));
+
 app.use(session({
 	resave: false,
 	saveUninitialized: false,
