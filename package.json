@@ -12,7 +12,7 @@
   ],
   "author": "pizzasperoni",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
   "bootstrap": "^3.3.7",
   "body-parser": "^1.15.2",
   "express": "^4.14.0",
