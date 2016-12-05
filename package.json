@@ -4,7 +4,7 @@
   "description": "chronometer to solve the rubiks cube made with express",
   "main": "server.js",
   "scripts": {
-    "test": "node server"
+    "start": "node server.js"
   },
   "keywords": [
     "chronometer",
@@ -12,7 +12,7 @@
   ],
   "author": "pizzasperoni",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
   "bootstrap": "^3.3.7",
   "body-parser": "^1.15.2",
   "express": "^4.14.0",
@@ -22,5 +22,7 @@
   "nodemon": "^1.11.0",
   "pug": "^2.0.0-beta6",
   "uuid": "^2.0.1"
-  }
+  },
+  "author": "pizzasperoni",
+  "license": "ISC"
 }
