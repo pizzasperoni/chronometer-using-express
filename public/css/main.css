@@ -1,6 +1,10 @@
-@import url("https://fonts.googleapis.com/css?family=Orbitron");
+@font-face {
+    font-family: DS-DIGIB;
+    src: url(/font/DS-DIGIB.TTF);
+}
+
 #chrono {
-  font-family: 'Orbitron';
+  font-family: 'DS-DIGIB';
   font-size: 190px;
   padding-left: 11%;
   padding-top: 21%;
